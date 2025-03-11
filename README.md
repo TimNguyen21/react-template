@@ -1,4 +1,4 @@
-# [Project Name]
+# [React Template with Redux]
 
 Website: [add website]
 
